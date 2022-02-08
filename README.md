@@ -49,7 +49,7 @@ yarn@v1.22.10 or higher
 
 ---
 
-## How To Use 🔧
+## How To Use  🔧
 
 From your command line, first clone Simplefolio:
 
@@ -341,16 +341,16 @@ I highly recommend to use [Netlify](https://netlify.com) because it is super eas
 
 ## Authors
 
-- **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
+- **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev) 
 
 ## Status
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3a029bfd-575c-41e5-8249-c864d482c2e5/deploy-status)](https://app.netlify.com/sites/the-simplefolio/deploys)
 
-## License 📄
+## License  📄
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments 🎁
 
-I was motivated to create this project because I wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
+I was motivated to create this project because I  wanted to contribute on something useful for the dev community, thanks to [ZTM Community](https://github.com/zero-to-mastery) and [Andrei](https://github.com/aneagoie)
